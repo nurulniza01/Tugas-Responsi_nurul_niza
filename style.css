@@ -1,0 +1,105 @@
+
+body{
+    margin: auto;
+    padding: 0px;
+    background-color: rgb(195, 219, 255);
+    width: 100%;
+
+}
+/* Bag_1 */
+.top{
+    margin:auto;
+    height: 80%;
+    width: 100%;
+    background-color: rgb(184, 227, 255);
+    padding: 20px 60px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2px;
+}
+.inside_top{
+    margin: auto;
+    width: 100%;
+    background-color: rgb(255, 200, 237);
+    padding: 2px;
+}
+h2{
+    text-align: center;
+    margin: 15px;
+}
+/*Bag_2 */
+.navbar{
+    width: 80%;
+    margin:20px 110px ;
+    padding: 20px;
+    background-color: rgb(255, 200, 237);
+}
+.navbar_1{
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+}
+h1{
+    margin: auto;
+}
+.img{
+    border-radius: 40%;
+    margin: auto;
+    padding: 0px;
+}
+.navbar_judul{
+    background-color: rgb(255, 200, 237);
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    font-family: monospace;
+}
+.navbar_menu{
+    color:  rgb(255, 200, 237);
+}
+.menu_sidebar a{
+    display: table-row;
+    font-size: 20px;
+}
+.sidebar{
+    width : 20%;
+    border :solid 2px black;
+    margin : 15px 108px;
+    padding :0px;
+    height : 70vh;
+    float:left;
+    background-color: rgb(248, 176, 255);
+}
+table{
+    padding: 5px;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 25px;
+}
+ul li{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+    border: 1px black;
+    font-size: 20px;
+    border: solid 1px black;
+}
+li{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(200, 190, 255);
+    margin: 0px 15px;
+    float: right;
+}
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
